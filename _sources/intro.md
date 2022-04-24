@@ -1,4 +1,6 @@
-# BIENVENIDO AL MUNDO MILITAR   
+# BIENVENIDO AL MUNDO MILITAR 
+
+![avatar](C:/Users/adria/adrianmilialmeida/imagenes/imagen.jpg)
 
 ¿QUIENES SON?
 
@@ -24,7 +26,7 @@ Estados Unidos, fue el ente motivador para que luego, en la fecha épica del 10 
 naciera no solo una nueva etapa para Quito y el continente, sino el inicio de lo que hoy conocemos como
 el Ejército ecuatoriano.
 
-[Pagina principal](https://ejercitoecuatoriano.mil.ec/) para mas información.
+Para mas información. [Pagina principal Ejército Ecuatoriano ](https://ejercitoecuatoriano.mil.ec/) 
 
 MAS CONTENIDO PARA LEER:
 
