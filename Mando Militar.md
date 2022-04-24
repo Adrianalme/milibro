@@ -15,6 +15,8 @@ kernelspec:
 
 # Mando Militar
 
+![avatar](C:/Users/adria/adrianmilialmeida/imagenes/img2.png)
+
 El General de Brigada Luis Enrique Burbano Rivera nació en Quito, provincia de Pichincha, el 3 de enero
                 de 1962. Está casado con la señora Magdalena Bayas Manzano y tienen dos hijos: Andrea y Santiago Burbano
                 Bayas.
@@ -39,10 +41,6 @@ Durante sus 37 años de servicio institucional ha ejercido funciones como: Docen
                 del Estado Mayor del Ejército; Jefe del Estado Mayor Operacional del Comando Conjunto de las FF.AA. y
                 actual Comandante General del Ejército Ecuatoriano.
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
-
-[Pagina principal](https://ejercitoecuatoriano.mil.ec/) para mas información.
+Para mas información. [Pagina principal Ejército Ecuatoriano ](https://ejercitoecuatoriano.mil.ec/) 
 
 
