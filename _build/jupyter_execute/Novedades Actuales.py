@@ -3,15 +3,15 @@
 
 # # Novedades Actuales
 # 
-# ![avatar](C:/Users/adria/adrianmilialmeida/imagenes/act1.jpg)
+# ![avatar](https://ejercitoecuatoriano.mil.ec/media/k2/items/cache/e9bc711e2c478c77d51fdbebd1ec5a17_M.jpg)
 # 
 # En Sucumbíos, la Brigada de Selva N.° 19 Napo, a través del Grupo de Fuerzas Especiales N.º 53 Rayo,
-#                 localizó y destruyó 10 mil plantas de coca, aproximadamente 2 hectáreas, durante la ejecución de
-#                 operaciones de vigilancia y control de los espacios terrestres y acuáticos en el límite político
-#                 internacional en las riberas del río Putumayo. Además, se incautó 1 bomba de agua y 300 metros de
-#                 manguera para riego, evitando que sean procesadas por organizaciones dedicadas al narcotráfico.
+# localizó y destruyó 10 mil plantas de coca, aproximadamente 2 hectáreas, durante la ejecución de
+# operaciones de vigilancia y control de los espacios terrestres y acuáticos en el límite político
+# internacional en las riberas del río Putumayo. Además, se incautó 1 bomba de agua y 300 metros de
+# manguera para riego, evitando que sean procesadas por organizaciones dedicadas al narcotráfico.
 # 
-# ![avatar](C:/Users/adria/adrianmilialmeida/imagenes/act2.jpg)
+# ![avatar](https://ejercitoecuatoriano.mil.ec/media/k2/items/cache/84ef883c22b32e884841cc9314bfd3f2_M.jpg)
 # 
 # Personal del Batallón de Ingenieros N.º 67 Montúfar, en coordinación con Fiscalía de Santo Domingo, DGI,
 # Policía Judicial, Criminalística, en presencia del fiscal del cantón Santo Domingo, abogado Manuel

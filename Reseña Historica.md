@@ -1,12 +1,12 @@
 # Reseña Historica
 
-![avatar](C:/Users/adria/adrianmilialmeida/imagenes/Rese.jpg)
+![avatar](https://ejercitoecuatoriano.mil.ec/images/Reunion_en_la_Casa_de_Manuela_Canizares_10_de_agosto_1809-300x158.jpg)
 
 La historia del Ejército ecuatoriano va de la mano con la gesta imperecedera del 10 de agosto de 1809,
 cuando al albor de la libertad, nace el Ejército ecuatoriano, cuya labor en más de dos siglos ha
 contribuido indiscutiblemente a la edificación del Ecuador democrático y soberano.
 
-![avatar](C:/Users/adria/adrianmilialmeida/imagenes/rese2.jpg)
+![avatar](https://ejercitoecuatoriano.mil.ec/images/2-de-agosto.jpg)
 
 Las campañas independentistas fueron el preámbulo de una organización y de una estructura militar más
 coherente y cercana a lo que debía ser un ejército. Es innegable que el nivel de poder y autonomía
@@ -18,7 +18,7 @@ Las ideas progresistas del quiteño Javier Eugenio de Santa Cruz y Espejo, fiel 
 Ilustración en América, del influjo del espíritu de la Revolución Francesa y de la independencia de los
 Estados Unidos, fue el ente motivador para que luego, en la fecha épica del 10 de Agosto de 1809, el Ejército ecuatoriano.
 
-![avatar](C:/Users/adria/adrianmilialmeida/imagenes/rese3.png)
+![avatar](https://ejercitoecuatoriano.mil.ec/images/plaza-grande-300x200.jpg)
 
 Uno de los próceres del 10 de agosto, el capitán Juan Salinas, merecidamente reconocido como el primer
 comandante del Ejército ecuatoriano, fue un noble oficial, sensible he instruido; maestro en filosofía y

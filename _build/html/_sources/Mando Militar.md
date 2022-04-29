@@ -15,7 +15,7 @@ kernelspec:
 
 # Mando Militar
 
-![avatar](C:/Users/adria/adrianmilialmeida/imagenes/img2.png)
+![avatar](https://ejercitoecuatoriano.mil.ec/images/ImagenesNoticias/Grab_Burbano.jpeg)
 
 El General de Brigada Luis Enrique Burbano Rivera nació en Quito, provincia de Pichincha, el 3 de enero
                 de 1962. Está casado con la señora Magdalena Bayas Manzano y tienen dos hijos: Andrea y Santiago Burbano
